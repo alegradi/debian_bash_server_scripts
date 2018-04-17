@@ -1,5 +1,8 @@
 # bash_server_scripts
 
+Bash server script collection. 
+Tested with Debian based distributions so far.
+
 Contents
 
 iptables_basic - basic iptables configuration script
